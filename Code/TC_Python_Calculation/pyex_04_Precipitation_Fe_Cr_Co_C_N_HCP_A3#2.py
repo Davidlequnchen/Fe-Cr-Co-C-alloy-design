@@ -1,6 +1,7 @@
 from tc_python import *
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
 """
 This program simulates the kinetics of precipitation of both stable and metastable carbides from ferrite phase.
