@@ -4,3 +4,4 @@ pymoo
 pandas
 seaborn
 matplotlib==3.7.3
+plotly
